@@ -1,2 +1,3 @@
-# git-intro
-git learn
+## git-intro
+-git learn
+-basic comands
